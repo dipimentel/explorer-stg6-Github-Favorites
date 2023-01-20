@@ -1,4 +1,4 @@
-# GitFav (agregador de favoritos do Github)
+# GitFav (agregador de favoritos do GitHub)
 
 [![](https://raw.githubusercontent.com/dipimentel/explorer-stg6-Github-Favorites/main/print-projeto/print-stage6-github-favorites.png)](https://dipimentel.github.io/explorer-stg6-Github-Favorites/)
 
