@@ -162,7 +162,7 @@ export class FavoritesView extends Favorites {
         tr.innerHTML =
         `
             <td colspan="4">
-                <img src="/images/estrela.svg" alt="Desenho minimalista de uma estrela com olhos e boca aberta">
+                <img src="./images/estrela.svg" alt="Desenho minimalista de uma estrela com olhos e boca aberta">
                 <span>Nenhum favorito ainda</span>
             </td>
         `
